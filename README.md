@@ -1,4 +1,4 @@
-# 💫Hi, I'm Shlok Srivastava<br>💻 Computer Science Engineering | Developer 
+# 💫Hi, I'm Shlok Srivastava<br>💻 Computer Science Engineering | Developer
 #### <br>I'm a Computer Science Engineering developer who enjoys building modern, practical, and user-focused applications.<br><br>I like turning ideas into real projects, exploring new technologies, solving programming problems, and continuously improving my development skills.<br><br>💡 Build → Learn → Experiment → Improve → Repeat
 <br><br>🎓 Recently completed my Diploma in Computer Science Engineering<br>💻 Interested in Web Development, Application Development & Software Engineering<br>🌱 Currently improving my skills in Java, Python, C/C++ and databases<br>🔨 I enjoy building projects that solve real-world problems<br>🎨 I like creating interfaces with modern UI, animations and interactive experiences<br>🧠 Currently learning more about Data Structures & Algorithms and Open Source<br>🤝 Interested in collaborating on interesting development projects<br>📍 Based in India
 
